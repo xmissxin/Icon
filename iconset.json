@@ -1,9 +1,13 @@
 {
   "name": "懒蛋专属",
   "icons": [
-    { 
-      "name": "YUANRUSHUI", 
-      "url": "https://raw.githubusercontent.com/xmissxin/Icon/refs/heads/main/YUANRUSHUI.png" 
+    {
+      "name": "YUANRUSHUI",
+      "url": "https://raw.githubusercontent.com/xmissxin/Icon/refs/heads/main/YUANRUSHUI.png"
+    },
+    {
+      "name": "YISHARE",
+      "url": "https://raw.githubusercontent.com/xmissxin/Icon/refs/heads/main/YISHARE.png"
     }
   ]
 }
