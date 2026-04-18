@@ -1,3 +1,9 @@
 {
-  "YUANRUSHUI": "https://raw.githubusercontent.com/xmissxin/Icon/refs/heads/main/YUANRUSHUI.png"
+  "name": "ZSY专属图标",
+  "icons": [
+    { 
+      "name": "YUANRUSHUI", 
+      "url": "https://raw.githubusercontent.com/xmissxin/Icon/refs/heads/main/YUANRUSHUI.png" 
+    }
+  ]
 }
